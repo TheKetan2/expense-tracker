@@ -4,6 +4,8 @@ import Balance from "./components/Balance";
 import IncomeExpenses from "./components/IncomeExpenses";
 
 import "./App.css";
+import TransactionList from "./components/TransactionList";
+import AddTransaction from "./components/AddTransaction";
 
 export default function App() {
   return (
@@ -12,6 +14,8 @@ export default function App() {
       <div className="container">
         <Balance />
         <IncomeExpenses />
+        <TransactionList />
+        <AddTransaction />
       </div>
     </div>
   );

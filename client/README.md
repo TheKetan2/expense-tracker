@@ -2,6 +2,8 @@
 
 - Context API
 - use of Hooks
+- NodeJS
+- Express API
 
 ![alt text](screen/screen.gif)
 
